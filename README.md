@@ -1,1 +1,2 @@
-# repaso
+# Repaso
+## Ejercicio en python
